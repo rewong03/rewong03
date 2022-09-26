@@ -51,3 +51,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rewong03&show_icons=true&include_all_commits=true&theme=radical)
+![](https://leetcard.jacoblin.cool/rewong?border=2&radius=5&height=196)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rewong03&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
