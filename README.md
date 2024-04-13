@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ---
 
 ### :computer: :monkey: About me :
-- :smirk_cat: I'm a rising junior at Northwestern University majoring in Computer Science and minoring in Data Science
-- :scientist: I'm working as a SWE Intern at Roblox this summer, and I used to be a software research assistant at Carnegie Mellon and a HPC/scientific computing research assitant at UChicago
-- :snake: I'm interested in building high-performance systems and infrastructure (especially with Python)
+- :smirk_cat: I'm a junior at Northwestern University concurrently completing my B.S. and M.S. in computer science
+- :scientist: I'll be SWE intern at Citadel this summer, and I previously worked at Roblox, Carnegie Mellon, and UChicago!
+- :snake: I'm interested in high-performance systems/infrastructure, fast code, and compilers
 - :violin: In my free time, I like to practice the violin, watch YouTube, and (occasionally) go to the gym
-- :bowing_man: I'm currently looking for summer 2024 SWE/SDE roles, so feel free to reach out at [rewong@u.northwestern.edu](mailto:rewong@u.northwestern.edu)
+- :bowing_man: I'll be looking for 2025 full-time SWE/SDE roles, so feel free to reach out at [rewong@u.northwestern.edu](mailto:rewong@u.northwestern.edu)
 
 ---
 
